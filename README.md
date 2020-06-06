@@ -251,11 +251,12 @@ Below sources were used to conclude the above case study. It has list all websit
 
 * [The Online Publishing Platform](https://medium.com/wealthsimple/engineering-at-wealthsimple-integrating-react-native-into-our-existing-native-apps-9b0c31627a75)
 * [QZ.com](https://qz.com/1647701/fintech-algorithms-discriminate-40-less-than-traditional-lenders/)
-  <img src="D:\Personal Documents\Richa\Fintech Bootcamp\Assignment\#1\Wealthsimple Logo.jpg">
 
-* ![The Company's Logo](D:\Personal Documents\Richa\Fintech Bootcamp\Assignment\#1\Wealthsimple Logo.jpg)
-* ![image](file:///D:/Personal Documents/Richa/Fintech Bootcamp/Assignment/Wealthsimple Logo.jpg "The Logo")
-* ![image]<image url="D:\Personal Documents\Richa\Fintech Bootcamp\Assignment\Wealthsimple Logo.jpg" scale="0.25"/>
+  <img src="D:\Personal Documents\Richa\Fintech Bootcamp\Assignment\#1\Wealthsimple Logo.jpg">
+* ![image]<image url="file:///D:/Personal Documents/Richa/Fintech Bootcamp/Assignment/Wealthsimple Logo.jpg" scale="0.25"/>
+* <image url="file:///D:/Personal Documents/Richa/Fintech Bootcamp/Assignment/Wealthsimple Logo.jpg" scale="0.25"/>
+* ![image](Wealthsimple Logo.jpg)
+
 
 * [Websites of competitors - Nest Wealth] (https://www.nestwealth.com/)
 * [Websites of competitors - Wealthbar](https://www.wealthbar.com/)
@@ -269,8 +270,6 @@ Below sources were used to conclude the above case study. It has list all websit
 * FinTech blogs and/or podcasts
 
 * Interviews with the company’s founders, CTOs, or project leads
-
-* Reports devoted to the particular FinTech domain you are focusing on (e.g.,  FinTech in the mortgage industry)
 
 * [Forbes](https://www.forbes.com/fintech/#39ae67bc13f1)
 
