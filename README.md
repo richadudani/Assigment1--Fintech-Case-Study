@@ -25,6 +25,8 @@
 ## Business Activities:
 
 ### What specific financial problem is the company or project trying to solve?
+    * Targetting High Net worth Canadian clients - Wealthsimple has tied up with the Grayhawk Investment Strategies Inc. with the help of which they will be able to offer Grayhawk strategies to advisers with wealthy clients on its platform. In return, Wealthsimple will provide technology, dealer and advisory services to Grayhawk Investment Strategies Inc., a Calgary-based firm that manages about $800 million (US$600 million) for 30 of Canada’s richest families.
+
     * International Footprint -  Wealthsimple is trying to expand its international footprints through partnerships which is currently under process
   
     * Domestic Expansion - In Canada, they are the biggest player in the "digital space" at 70% market share but they continue capturing market share through new products and services. They have registered three new businesses in 2019 namely Wealthsimple Cash in June 2019, Wealthsimple Payments in August, and Wealthsimple Digital Assets, issued in October 2019.
@@ -33,7 +35,7 @@
   
     * Streamlining their business - Wealthsimple is in process of restructuring their businesses. Recently they announced to seperate their direct to consumer and Wealthsimple for Advisors businesses and will transition the advisor-focused offering to a new company. They are in in process of looking for partners to support advisors on a new platform.
 
-    * Achieve full stack of financial service - The vision is dependent on investments. They are now focusing on identifying the right partner to support their business on a future platform that is capable of delivering a seamless client experience with even more features and services. Potential partnerships with other FinTechs in the Power/Portag3 portfolio are also being explored.
+    * Vision is to achieve full stack of financial service - The vision is dependent on investments. They are now focusing on identifying the right partner to support their business on a future platform that is capable of delivering a seamless client experience with even more features and services. Potential partnerships with other FinTechs in the Power/Portag3 portfolio are also being explored.
 
 ### Who is the company's intended customer?  Is there any information about the market size of this set of customers?
     The Company's Customers -
@@ -47,6 +49,8 @@
     Although there was no concrete articles or publicatiions that could give a definite answer to this question. There is demographic information available by age published by Statistics Canada. According to 2019 study residents population between the ages of 25-29 years is 2.63 millions, 2.6 millions for 30-34 year olds and 35-39 year olds each and 2.4 millions for people between 40-44 years, totalling to over 10 millions.
 
     Ideally the entire 10 millions can be my potential market share. However, there are articles/studies confirming that this is not feasible, simply because of the increasing personal debts, gender pay gaps, gender investment habits, lack of education/awareness around investing, the growing income inequality between wealthly and poor millenials. 
+
+    The current total Canadian asset size is over $1.8 trillion, of which robo-advisers contribute less than 0.5%. Refer to "Canadian Asset Type" graph submitted in the repository. 
 
 ### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
@@ -89,6 +93,8 @@
     
     For implementation, let's take an example of “React”, A JavaScript library for building user interfaces
     At Wealthsimple, mobile apps are very important to the business. A significant portion of clients use them regularly to check on their accounts and to add to their savings.Inspired by posts from AirBnb, Instagram, and Artsy , company started exploring React Native back in November 2016 to see if it was something they can add to the development toolbox. Cross-platform code reuse, hot reloading, and CodePush have the potential to significantly increase how fast companycan get new features and bug fixes out to our clients. Additionally, the ability to slowly mix this into our app by integrating with our existing code base was appealing.
+    
+<p> <i> Refer to "WS Application & Data", "WS Business Tools", "WS Technologies for DevOps" and "WS Technologies for Utilities" graphs submitted in the repository. </i> <p>
     
     Company Strategy
     Most of the references online that cite React Native show tremendous success when it’s used in the context of simple applications or for simple tasks. 
@@ -143,7 +149,7 @@
     * ModernAdvisor
     * Mylo
     * Voleo
-    * Koho
+    * KOHO
     * Questrade's Portfolio IQ
     * Invisor
     * BMO SmartFolio
@@ -171,7 +177,7 @@
     4. Employees metrics is ranked third among it's top 10 competitors. The top 10 competitors average 137
 
 ### How is your company performing relative to competitors in the same domain?
-    Wealthsimple is a market leader in the robo-advisory space in Canada. They outperform competitors in various product/service which is detailed out in question above.
+    Wealthsimple is a market leader in the robo-advisory space in Canada. They outperform competitors in various product/service which is detailed out in question above. Refer to "WS versus Competitors" table submitted in the repository.
 
 ## Recommendations
 
@@ -211,16 +217,6 @@ Below sources were used to conclude the above case study. It has list all websit
 
 * [Globe and Mail Review by Wealth Management Expert](https://www.theglobeandmail.com/business/article-the-grim-reality-for-wealthsimple-and-its-peers-robo-advisers-are/)
 
-* [FinTech blogs and/or podcasts[1]](https://betakit.com/wealthsimple-raises-100-million-from-allianz-x-to-build-a-full-stack-financial-service/#:~:text=Wealthsimple%20raises%20%24100%20million%20led,full%20stack%20financial%20service%20%7C%20BetaKit)
-
-* [FinTech blogs and/or podcasts[2]](https://betakit.com/wealthsimple-registers-three-businesses-indicating-expansion-into-new-financial-services/)
-
-* [FinTech blogs and/or podcasts[3]](https://betakit.com/wealthsimple-to-spin-out-advisory-service-into-separate-company/)
-
-* [FinTech blogs and/or podcasts[4]](https://betakit.com/wealthsimple-registers-three-businesses-indicating-expansion-into-new-financial-services/)
-
-* [FinTech blogs and/or podcasts[5]](https://betakit.com/wealthsimple-raises-100-million-from-allianz-x-to-build-a-full-stack-financial-service/#:~:text=Wealthsimple%20raises%20%24100%20million%20led,full%20stack%20financial%20service%20%7C%20BetaKit)
-
 * [Craft](https://craft.co/wealthsimple)
 
 * [Moneysense Review](https://www.moneysense.ca/save/investing/wealthsimple-review/)
@@ -251,79 +247,48 @@ Below sources were used to conclude the above case study. It has list all websit
 
 * [The Online Publishing Platform](https://medium.com/wealthsimple/engineering-at-wealthsimple-integrating-react-native-into-our-existing-native-apps-9b0c31627a75)
 * [QZ.com](https://qz.com/1647701/fintech-algorithms-discriminate-40-less-than-traditional-lenders/)
-
   <img src="D:\Personal Documents\Richa\Fintech Bootcamp\Assignment\#1\Wealthsimple Logo.jpg">
-* ![image]<image url="file:///D:/Personal Documents/Richa/Fintech Bootcamp/Assignment/Wealthsimple Logo.jpg" scale="0.25"/>
-* <image url="file:///D:/Personal Documents/Richa/Fintech Bootcamp/Assignment/Wealthsimple Logo.jpg" scale="0.25"/>
-* ![image](Wealthsimple Logo.jpg)
 
-
-* [Websites of competitors - Nest Wealth] (https://www.nestwealth.com/)
+* [Websites of competitors - Nest Wealth](https://www.nestwealth.com/)
 * [Websites of competitors - Wealthbar](https://www.wealthbar.com/)
 * [Websites of competitors - Justwealth](https://www.justwealth.com/)
 * [Websites of competitors - ModernAdvisor](https://www.modernadvisor.ca/)
 * [Websites of competitors - Mylo](https://mylo.ai/)
 * [Websites of competitors - Voleo](https://www.myvoleo.com/)
+* [Websites of competitors - KOHO](https://www.koho.ca/)
+* [Websites of competitors - Questrade's Portfolio IQ](https://www.questrade.com/)
+* [Websites of competitors - Invisor](https://invisor.ca/)
+* [Websites of competitors - BMO SmartFolio](https://www.bmo.com/smartfolio/)
+* [Websites of competitors - ShareOwner](https://www.shareowneronline.com/)
 
-* Company press releases (These can often be found on the Press page of the company's website, or via Google search.)
 
-* FinTech blogs and/or podcasts
-
-* Interviews with the company’s founders, CTOs, or project leads
-
-* [Forbes](https://www.forbes.com/fintech/#39ae67bc13f1)
-
-* [McKinsey & Company](https://www.mckinsey.com/featured-insights/fintech)
-
-* [Reuters](https://www.reuters.com/news/archive/RCOMUS_Fintech)
-
-* [TechCrunch](https://techcrunch.com/tag/fintech/)
-
-* [Deloitte](https://www2.deloitte.com/us/en/pages/risk/articles/fintech-trends-insights.html)
-
-* [Built In](https://builtin.com/fintech)
-
-* [FinTech Weekly](https://www.fintechweekly.com/)
-
-* [KPMG](https://home.kpmg/us/en/home/industries/financial-services/fin-tech.html)
-
-* [Crunchbase](https://www.crunchbase.com/hub/fintech-startups#section-overview)
-
-* [Angelist](https://angel.co/finance-technology)
-
+* [Business Financial Post](https://business.financialpost.com/personal-finance/high-net-worth/wealthsimple-targets-canadas-richest-with-grayhawk-partnership)
 * [Canada has a rosy future in fintech, but obstacles remain, expert says](https://www.cpacanada.ca/en/news/innovation/2019-11-04-canada-fintech-trends)
 
-* [Canadian fintech adoption rate hits 50 per cent, but still trails global peers: EY](https://business.financialpost.com/technology/canadian-fintech-adoption-rate-hits-50-per-cent-but-still-trails-global-peers-ey)
 
-* [The 2019 Canadian fintech market map](https://www.pwc.com/ca/en/industries/technology/canadian-fintech-market-map.html)
+#### FinTech blogs and/or podcasts
 
-* [Canadian Fintech Industry Set to Witness Strong Grow: Report](https://fintechnews.ch/fintech/fintech-canada-report/19783/)
+* [FinTech blogs and/or podcasts[1]](https://betakit.com/wealthsimple-raises-100-million-from-allianz-x-to-build-a-full-stack-financial-service/#:~:text=Wealthsimple%20raises%20%24100%20million%20led,full%20stack%20financial%20service%20%7C%20BetaKit)
 
-* [Introducing The FinTech Landscape In Canada](http://www.industryandbusiness.ca/development-and-innovation/introducing-the-fintech-landscape-in-canada)
+* [FinTech blogs and/or podcasts[2]](https://betakit.com/wealthsimple-registers-three-businesses-indicating-expansion-into-new-financial-services/)
 
+* [FinTech blogs and/or podcasts[3]](https://betakit.com/wealthsimple-to-spin-out-advisory-service-into-separate-company/)
 
-### FinTech Companies and Domains
+* [FinTech blogs and/or podcasts[4]](https://betakit.com/wealthsimple-registers-three-businesses-indicating-expansion-into-new-financial-services/)
 
-For an overview of some of the most successful companies across FinTech domains, check out these resources:
+* [FinTech blogs and/or podcasts[5]](https://betakit.com/wealthsimple-raises-100-million-from-allianz-x-to-build-a-full-stack-financial-service/#:~:text=Wealthsimple%20raises%20%24100%20million%20led,full%20stack%20financial%20service%20%7C%20BetaKit)
 
-* [Status of the Canadian FinTech Landscape](https://www.cfamontreal.org/static/uploaded/Files/Presentation/19-02-07-David_Nault_Rendez-Vous-Fintech_CFA-Montreal.pdf)
+* [FinTech blogs and/or podcasts[6]](https://betakit.com/digital-finance-institute-names-canadas-top-50-fintech-companies-for-2019/)
 
 * [The Canadian Fintech Ecosystem Map](https://ecosystem.formfintech.com/)
 
-* [World FinTech Report 2019, Capgemini](https://fintechworldreport.com/)
+* [The 2019 Canadian fintech market map](https://www.pwc.com/ca/en/industries/technology/canadian-fintech-market-map.html)
 
-* [The Most Innovative FinTech Companies in 2019, Forbes](https://www.forbes.com/fintech/2019/#5264de5a2b4c)
+* [Introducing The FinTech Landscape In Canada](http://www.industryandbusiness.ca/development-and-innovation/introducing-the-fintech-landscape-in-canada)
 
-* [The Future of FinTech and Banking, Accenture](https://www.accenture.com/us-en/insight-future-fintech-banking)
+* [Canadian Fintech Industry Set to Witness Strong Grow: Report](https://fintechnews.ch/fintech/fintech-canada-report/19783/)
 
 * [Scanning the FinTech Landscape: 10 Disruptive Models, McKinsey & Company](https://www.mckinsey.com/industries/financial-services/our-insights/banking-matters/scanning-the-fintech-landscape)
 
----
+* [Canadian fintech adoption rate hits 50 per cent, but still trails global peers: EY](https://business.financialpost.com/technology/canadian-fintech-adoption-rate-hits-50-per-cent-but-still-trails-global-peers-ey)
 
-## Submission
-
-* Create a repository for this homework on GitHub.
-
-* Upload the README file containing your case study report to this repository.
-
-* Submit the link to your GitHub repository to Bootcamp Spot.
