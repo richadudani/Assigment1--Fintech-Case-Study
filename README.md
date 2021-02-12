@@ -1,4 +1,4 @@
-# Unit 1 Homework Assignment: FinTech Case Study
+# FinTech Case Study
 
 ## WEALTHSIMPLE: A new type of Financial Advisor or Canada's Top Robo-Advisor
 
